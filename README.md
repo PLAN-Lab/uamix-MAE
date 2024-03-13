@@ -16,7 +16,7 @@ If you find this method and/or code useful, please consider citing:
 @inproceedings{tabassum2024uamixmae,
   title = {uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures},
   author = {Afrina Tabassum$,Dung Tran, Trung Dang, Ismini Lourentzou, Kazuhito Koishida},
-  booktitle = {2024 IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP)},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year = {2024}
 }
 ```
