@@ -1,7 +1,6 @@
 # uaMix-MAE: EFFICIENT TUNING OF PRETRAINED AUDIO TRANSFORMERS WITH UNSUPERVISED AUDIO MIXTURES
 
-This is the official implementation of [uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures](lint to paper) from Microsoft Applied Science Group and UC Berkeley
-by [Afrina Tabassum](https://sites.google.com/vt.edu/afrinatabassum/home), [Dung Tran](https://www.microsoft.com/applied-sciences/people/dung-tran), [Trung Dang](https://www.microsoft.com/applied-sciences/people/trung-dang), [Ismini Lourentzou](https://isminoula.github.io/), [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida).
+This is the official implementation of [uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures](link to paper) by [Afrina Tabassum](https://sites.google.com/vt.edu/afrinatabassum/home) (Virginia Tech), [Dung Tran](https://www.microsoft.com/applied-sciences/people/dung-tran) (Microsoft Applied Sciences Group), [Trung Dang](https://www.microsoft.com/applied-sciences/people/trung-dang) (Microsoft Applied Sciences Group), [Ismini Lourentzou](https://isminoula.github.io/) (University of Illinois at Urbana - Champaign), [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida) (Microsoft Applied Sciences Group).
 
 # Code
 Comming soon.....
@@ -12,7 +11,7 @@ This paper proposes uaMix-MAE, an efficient ID tuning strategy that leverages un
 
 ## Citation
 
-Please cite our work using:
+If you find this method and/or code useful, please consider citing:
 ```
 @inproceedings{tabassum2024uamixmae,
   title = {uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures},
