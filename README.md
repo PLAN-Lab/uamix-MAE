@@ -1,4 +1,4 @@
-# uaMix-MAE: EFFICIENT TUNING OF PRETRAINED AUDIO TRANSFORMERS WITH UNSUPERVISED AUDIO MIXTURES
+# uaMix-MAE: EFFICIENT TUNING OF PRETRAINED AUDIO TRANSFORMERS WITH UNSUPERVISED AUDIO MIXTURES ([paper](https://arxiv.org/abs/2403.09579))
 
 This is the official implementation of [uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures](link to paper) by [Afrina Tabassum](https://sites.google.com/vt.edu/afrinatabassum/home) (Virginia Tech), [Dung Tran](https://www.microsoft.com/applied-sciences/people/dung-tran) (Microsoft Applied Sciences Group), [Trung Dang](https://www.microsoft.com/applied-sciences/people/trung-dang) (Microsoft Applied Sciences Group), [Ismini Lourentzou](https://isminoula.github.io/) (University of Illinois Urbana - Champaign), [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida) (Microsoft Applied Sciences Group).
 
